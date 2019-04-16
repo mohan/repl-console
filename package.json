@@ -1,7 +1,7 @@
 {
   "name": "repl-console",
   "main": "./lib/repl-console",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Run REPL code directly in ATOM. Output is displayed in Dev Tools console.",
   "keywords": [
     "REPL",
