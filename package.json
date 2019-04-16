@@ -4,7 +4,8 @@
   "version": "0.1.0",
   "description": "Run REPL code directly in ATOM. Output is displayed in Dev Tools console.",
   "keywords": [
-    "REPL"
+    "REPL",
+    "console"
   ],
   "activationCommands": {
     "atom-workspace": "repl-console:run"
