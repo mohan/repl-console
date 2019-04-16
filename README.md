@@ -2,9 +2,9 @@
 
 Run REPL code directly in ATOM. Output is displayed in Dev Tools console.
 
-Supported Languages: Ruby, Python, PHP, Shell Script, JSON and JavaScript
+Supported Languages: Ruby, JavaScript, Python, PHP, Go, Shell Script, JSON
 
-Runtime must be available in system PATH for code to execute in that particular language. JavaScript and JSON is the only exception as it runs natively in ATOM.
+Runtime must be available in system PATH for code to execute in that particular language. JavaScript (and JSON) is the only exception as it runs natively in ATOM.
 
 ## Steps to run code
 
