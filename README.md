@@ -6,7 +6,7 @@ Supported Languages: Ruby, JavaScript, Python, PHP, Go, Shell Script and JSON
 
 Runtime must be available in system PATH for code to execute in that particular language. JavaScript (and JSON) is the only exception as it runs natively in ATOM.
 
-![Screenshot](screenshot.jpg)
+<img src="screenshot.jpg" alt="Screenshot" style="width:100%;max-width:700px;" />
 
 ## Steps to run code
 
